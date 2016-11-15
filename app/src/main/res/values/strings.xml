@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExperimentSeven</string>
+
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="button_ok">OK</string>
+    <string name="button_save">SAVE</string>
+    <string name="button_load">LOAD</string>
+    <string name="button_clear">CLEAR</string>
+</resources>
